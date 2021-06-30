@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Akkjon
 ## 🏠 Location
-I'm living in the south-west of germany and I study Computer-Science in Karlsruhe
+I'm living in the south-west of Germany and I study computer-science in Karlsruhe
 ## 💻 My current tech-stack
   - Java
   - JavaScript
