@@ -3,7 +3,8 @@
 I'm living in the south-west of Germany and I study computer-science in Karlsruhe
 ## 💻 My current tech-stack
   - Java
-  - JavaScript
+  - JavaScript / TypeScript
+    - ReactJS
   - HTML, CSS
   - Bash
   - PHP
@@ -11,4 +12,3 @@ I'm living in the south-west of Germany and I study computer-science in Karlsruh
 ## 🗨️ How to reach me:
   - Issue
   - Pull request
-  - E-Mail: akkjon@outlook.de
